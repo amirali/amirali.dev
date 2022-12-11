@@ -1,0 +1,26 @@
+baseUrl: https://www.amirali.dev/
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  ShowReadingTime: true
+  ShowShareButton: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  profileMode:
+    enabled: true
+    title: Amirali Esfandiari
+    subtitle: young backend developer & even younger SRE
+    imageUrl: http://www.gravatar.com/avatar/8d26bea4035b6261911e44bde4740fae?s=128
+    buttons:
+      - name: Posts
+        url: posts
+
+  socialIcons:
+    - name: Github
+      url: https://github.com/amirali/
+    - name: Linkedin
+      url: https://linkedin.com/in/amirali-esfandiari/
+    - name: Twitter
+      url: https://twitter.com/eilarima/
